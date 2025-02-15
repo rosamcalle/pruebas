@@ -85,7 +85,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             <th>Materia</th>
             <th>Semestre</th>
             <th>Fecha</th>
-            <th>Fecha</th>
+            
         </tr>
         <?php foreach ($asistencias as $asistencia) { ?>
             <tr>
